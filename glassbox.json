@@ -1,0 +1,106 @@
+{
+  "slug": "storyboardclear",
+  "box": 52,
+  "date": "2026-10-10",
+  "title": "StoryboardClear",
+  "question": "How do screenplays and storyboards work?",
+  "hook": "Before a camera rolls, a film already exists twice: as a script where one page is about one minute, and as a comic strip of every shot. Write a scene, board it from a 3D camera, cross the 180-degree line and play your own animatic.",
+  "thumbText": "HOW STORYBOARDS WORK",
+  "field": "film",
+  "minutes": 14,
+  "tags": [
+    "screenplay",
+    "storyboard",
+    "screenwriting",
+    "three-act structure",
+    "shot sizes",
+    "180-degree rule",
+    "animatic",
+    "previs",
+    "filmmaking",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "A script is a timed blueprint",
+      "text": "Screenplays use 12-point Courier and fixed margins for headings, action, names and dialogue, so one page runs about one minute. A 110-page script makes a film of roughly two hours."
+    },
+    {
+      "title": "Stories have a shape",
+      "text": "Most films follow three acts: set-up, confrontation, resolution, with turning points that push the tension up to a climax. Indian films add an interval, with a big twist just before it."
+    },
+    {
+      "title": "Words become pictures",
+      "text": "A storyboard draws every shot. Each one picks a shot size, from extreme wide to extreme close-up, an angle such as low, high or Dutch, and a move such as a pan, tilt, dolly or track."
+    },
+    {
+      "title": "Coverage and the line",
+      "text": "A scene is filmed from several set-ups: a master, over-the-shoulders and close-ups. Keep every camera on one side of the line between two characters, or they swap sides on screen."
+    },
+    {
+      "title": "Timing before shooting",
+      "text": "An animatic plays the panels in time with temp sound. Pre-vis rebuilds the scene in simple 3D, as big action films like Baahubali and RRR did, so costly shots are solved on a computer first."
+    },
+    {
+      "title": "You direct",
+      "text": "Board a six-shot scene yourself. A checklist catches the classic mistakes: no establishing shot, jump cuts, a crossed line, no close-up, or a scene that runs far longer than its page count."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Screenplay",
+      "def": "A film script in a standard layout: 12-point Courier, fixed margins, roughly one page per minute of screen time."
+    },
+    {
+      "term": "Scene heading",
+      "def": "The line that opens a scene: INT. or EXT., the place and the time of day, such as EXT. ROOFTOP - DAY."
+    },
+    {
+      "term": "Three-act structure",
+      "def": "Set-up, confrontation and resolution, split roughly a quarter, a half and a quarter of the script."
+    },
+    {
+      "term": "Storyboard",
+      "def": "A sequence of drawings, one per shot, showing what the camera will see."
+    },
+    {
+      "term": "Shot size",
+      "def": "How much of the subject fills the frame: extreme wide, wide, medium, close-up or extreme close-up."
+    },
+    {
+      "term": "Coverage",
+      "def": "Filming one scene from several set-ups, such as a master, over-the-shoulders and close-ups, so the editor has choices."
+    },
+    {
+      "term": "180-degree rule",
+      "def": "Keep the camera on one side of the line between two characters so each stays on the same side of the screen."
+    },
+    {
+      "term": "Animatic",
+      "def": "Storyboard panels cut together in time with rough sound, to test a scene's rhythm."
+    },
+    {
+      "term": "Pre-vis",
+      "def": "Previsualisation: planning shots with a simple 3D model of the set, actors and cameras before shooting."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "storyboardclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}

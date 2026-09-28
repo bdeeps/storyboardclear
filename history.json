@@ -1,0 +1,974 @@
+{
+  "title": "The history of screenplays and storyboards",
+  "tagline": "120 years from Méliès's list of magic tableaux to scripts in plain text and whole films rehearsed inside a computer.",
+  "intro": "A film is planned twice before anyone shouts action: once in words, as a screenplay, and once in pictures, as a storyboard. Early filmmakers kept a short list of scenes, but studios soon needed scripts that listed every shot so they could plan budgets. Then an animator pinned drawings to a wall, writers learned to shape stories in acts, and computers turned rough sketches into moving rehearsals of the whole film.",
+  "eras": [
+    {
+      "id": "scenes",
+      "name": "Scenes on paper",
+      "from": 1896,
+      "to": 1928,
+      "color": "#c49bff",
+      "summary": "Silent films are planned as short lists of scenes. Studios then demand continuity scripts that break every scene into shots, and writers, many of them women, become powerful."
+    },
+    {
+      "id": "studio",
+      "name": "The studio wall",
+      "from": 1928,
+      "to": 1960,
+      "color": "#ffb547",
+      "summary": "Disney pins drawings to a wall and films them as story reels. Live-action epics are drawn shot by shot, and the typed screenplay settles into the master-scene format."
+    },
+    {
+      "id": "drawn",
+      "name": "Directors who draw",
+      "from": 1950,
+      "to": 1985,
+      "color": "#ff7a59",
+      "summary": "From Kolkata to Hollywood to Tokyo, directors sketch and paint their films before shooting them, and in Bombay the writers themselves become stars."
+    },
+    {
+      "id": "rules",
+      "name": "Rules of story",
+      "from": 1949,
+      "to": 2012,
+      "color": "#5ce1a9",
+      "summary": "Teachers and story analysts turn old myths and hit films into maps: three acts, plot points, the Hero's Journey and beat sheets. Software formats the page for you."
+    },
+    {
+      "id": "digital",
+      "name": "Films rehearsed in a computer",
+      "from": 1988,
+      "to": 2026,
+      "color": "#7aa2ff",
+      "summary": "Storyboards become 3D animatics, then full previs. Whole companies exist to plan shots digitally, and LED stages bring the plan onto the set."
+    }
+  ],
+  "events": [
+    {
+      "year": 1902,
+      "date": "1 September 1902",
+      "era": "scenes",
+      "art": "scroll",
+      "key": true,
+      "title": "A trip to the Moon in 30 tableaux",
+      "who": "Georges Méliès",
+      "where": "Montreuil, near Paris, France",
+      "country": "France",
+      "text": "Méliès, a stage magician turned filmmaker, sold A Trip to the Moon as a grand spectacle in 30 tableaux, a numbered list of scenes. He wrote, designed and drew his films himself, planning every trick before filming. Historians count him among the first filmmakers to use pre-production drawings.",
+      "why": "Breaking a film into a list of scenes is still the first step of every screenplay.",
+      "box": "pictures",
+      "sources": [
+        2,
+        0
+      ]
+    },
+    {
+      "year": 1913,
+      "date": "c. 1912–1915",
+      "era": "scenes",
+      "art": "clapper",
+      "key": true,
+      "title": "The continuity script",
+      "who": "Thomas H. Ince",
+      "where": "Inceville, Los Angeles, USA",
+      "country": "United States",
+      "text": "At a time when many films were made up on set, the producer Thomas Ince insisted that each story be written out first, scene by scene and shot by shot. His continuity scripts let him plan budgets and keep several film crews working at once. In 1913 alone his studio released well over a hundred films.",
+      "why": "It turned the script into a working plan that tells everyone which shot comes next.",
+      "box": "coverage",
+      "sources": [
+        3,
+        4,
+        1
+      ]
+    },
+    {
+      "year": 1921,
+      "date": "1921",
+      "era": "scenes",
+      "art": "quill",
+      "title": "A writer runs the story",
+      "who": "June Mathis",
+      "where": "Metro Pictures, Hollywood, USA",
+      "country": "United States",
+      "text": "June Mathis wrote the script for The Four Horsemen of the Apocalypse and pushed for an unknown actor, Rudolph Valentino, to star. She filled her scripts with settings and stage directions, not just a plot. She became the first woman executive at Metro.",
+      "why": "She showed that the writer's plan shapes the whole film, not just the words.",
+      "sources": [
+        5
+      ]
+    },
+    {
+      "year": 1932,
+      "date": "1930 and 1932",
+      "era": "scenes",
+      "art": "fountainpen",
+      "title": "The first writer with two Oscars",
+      "who": "Frances Marion",
+      "where": "Hollywood, USA",
+      "country": "United States",
+      "text": "Frances Marion won Academy Awards for writing The Big House (1930) and The Champ (1931). She was the first writer, man or woman, to win two. In the 1920s she was the best-paid screenwriter in Hollywood.",
+      "why": "Screenwriting had become a respected profession, and women were leading it.",
+      "sources": [
+        6
+      ]
+    },
+    {
+      "year": 1933,
+      "date": "c. 1933",
+      "era": "studio",
+      "art": "storyboard",
+      "key": true,
+      "title": "Drawings pinned to a wall",
+      "who": "Webb Smith, Walt Disney Productions",
+      "where": "Hyperion studio, Los Angeles, USA",
+      "country": "United States",
+      "text": "Disney credited the story man Webb Smith with drawing each scene on its own sheet and pinning the sheets up in order on a board. The whole team could now see the story at a glance and move scenes around. The first complete storyboards are usually said to be for the short Three Little Pigs (1933).",
+      "why": "The storyboard was born: a story you can read like a comic and rearrange with pins.",
+      "box": "pictures",
+      "sources": [
+        7,
+        0,
+        42
+      ]
+    },
+    {
+      "year": 1935,
+      "date": "1930s",
+      "era": "studio",
+      "art": "filmreel",
+      "title": "Storyboards that move",
+      "who": "Walt Disney Productions",
+      "where": "Los Angeles, USA",
+      "country": "United States",
+      "text": "Disney's artists photographed their storyboard drawings and cut them together on film, each held for as long as the finished shot would last. They added dialogue and music, so the team could watch the whole cartoon before animating it. This was called a Leica reel, or story reel.",
+      "why": "It is the ancestor of every animatic and computer previs made today.",
+      "box": "animatic",
+      "sources": [
+        8,
+        9
+      ]
+    },
+    {
+      "year": 1939,
+      "date": "1939",
+      "era": "studio",
+      "art": "palette",
+      "key": true,
+      "title": "Gone with the Wind is drawn shot by shot",
+      "who": "William Cameron Menzies, for David O. Selznick",
+      "where": "Culver City, California, USA",
+      "country": "United States",
+      "text": "Gone with the Wind was one of the first live-action films to be storyboarded from start to finish. Menzies designed the shots, and the title production designer was coined for him, meaning he had the final word on how the film looked. He won an honorary Oscar for his use of colour.",
+      "why": "It proved that big live-action films could be planned in pictures, just like cartoons.",
+      "box": "pictures",
+      "sources": [
+        0,
+        10
+      ]
+    },
+    {
+      "year": 1949,
+      "date": "1949",
+      "era": "rules",
+      "art": "word",
+      "title": "One hero, a thousand faces",
+      "who": "Joseph Campbell",
+      "where": "New York, USA",
+      "country": "United States",
+      "text": "The scholar Joseph Campbell compared myths from around the world and found one shared pattern, which he called the monomyth. A hero leaves the everyday world, faces trials and returns changed. George Lucas later used the idea for Star Wars.",
+      "why": "It gave storytellers a map of a journey that audiences everywhere seem to recognise.",
+      "box": "structure",
+      "sources": [
+        11
+      ]
+    },
+    {
+      "year": 1954,
+      "date": "1954",
+      "era": "studio",
+      "art": "person",
+      "title": "Film writers in India organise",
+      "who": "Film Writers' Association (now the Screenwriters Association)",
+      "where": "Bombay (now Mumbai), India",
+      "country": "India",
+      "text": "Writers working in Indian films formed the Film Writers' Association in 1954. It became a registered trade union in 1960 and lets members register their scripts to protect them. Today, as the Screenwriters Association, it has tens of thousands of members.",
+      "why": "Writers needed a way to prove a story was theirs and to be paid and credited for it.",
+      "sources": [
+        12,
+        13
+      ]
+    },
+    {
+      "year": 1955,
+      "date": "1950s–1970s",
+      "era": "studio",
+      "art": "word",
+      "key": true,
+      "title": "The page that equals a minute",
+      "who": "Hollywood studios and writers",
+      "where": "Hollywood, USA",
+      "country": "United States",
+      "text": "From the 1950s, studios moved from scripts that listed every camera shot to master-scene scripts: a heading for each place and time, then action and dialogue. The director works out the shots later. Typed in 12-point Courier, a typewriter font designed in 1955, one page runs roughly one minute on screen.",
+      "why": "A fixed format means anyone can guess a film's length and cost just by counting pages.",
+      "box": "page",
+      "sources": [
+        1,
+        14
+      ]
+    },
+    {
+      "year": 1955,
+      "date": "c. 1950–1955",
+      "era": "drawn",
+      "art": "inkpot",
+      "key": true,
+      "title": "Pather Panchali in a sketchbook",
+      "who": "Satyajit Ray",
+      "where": "Calcutta (now Kolkata), India",
+      "country": "India",
+      "text": "Before he had money to make his first film, Ray, a trained illustrator, drew its key moments in pen, brush and ink in a drawing book. He showed these pictures to producers to explain the film. Pather Panchali came out in 1955 and made him world-famous.",
+      "why": "His drawings show a whole film planned in pictures by one person, far from any big studio.",
+      "box": "pictures",
+      "sources": [
+        15,
+        41
+      ]
+    },
+    {
+      "year": 1960,
+      "date": "1960",
+      "era": "drawn",
+      "art": "storyboard",
+      "key": true,
+      "title": "The shower scene on paper",
+      "who": "Saul Bass and Alfred Hitchcock",
+      "where": "Universal Studios, Los Angeles, USA",
+      "country": "United States",
+      "text": "Hitchcock was famous for planning every shot before filming. For Psycho he hired the designer Saul Bass as pictorial consultant, and Bass storyboarded the shower scene as dozens of quick, tight shots. Who deserves the most credit is still argued about, but the actor Janet Leigh said Hitchcock followed Bass's storyboard precisely.",
+      "why": "It showed how a storyboard can decide the size, angle and order of every shot in a scene.",
+      "box": "coverage",
+      "sources": [
+        18,
+        19
+      ]
+    },
+    {
+      "year": 1963,
+      "date": "1963",
+      "era": "drawn",
+      "art": "marker",
+      "title": "Boards for The Birds",
+      "who": "Harold Michelson",
+      "where": "Hollywood, USA",
+      "country": "United States",
+      "text": "Harold Michelson drew storyboards for Hitchcock's The Birds, and worked on films such as The Ten Commandments and The Graduate. Storyboard artists like him worked out where the camera would stand for each shot. His wife, Lillian Michelson, became a celebrated film researcher.",
+      "why": "Storyboard artist had become a skilled job of its own in Hollywood.",
+      "box": "pictures",
+      "sources": [
+        20
+      ]
+    },
+    {
+      "year": 1969,
+      "date": "1964–1969",
+      "era": "drawn",
+      "art": "scroll",
+      "title": "The red notebooks",
+      "who": "Satyajit Ray",
+      "where": "Calcutta (now Kolkata), India",
+      "country": "India",
+      "text": "For his later films Ray planned everything in red cloth-bound notebooks he called his kheror khata, the kind Bengali account-keepers used. They hold story ideas, character and set drawings, shooting scripts, storyboards and music. The first notebook for Goopy Gyne Bagha Byne (1969) alone runs to 733 pages.",
+      "why": "They show a screenplay and a storyboard living side by side in one book.",
+      "box": "pictures",
+      "sources": [
+        16,
+        17
+      ]
+    },
+    {
+      "year": 1973,
+      "date": "1973",
+      "era": "drawn",
+      "art": "quill",
+      "title": "A story of Partition, written by three",
+      "who": "Ismat Chughtai, Kaifi Azmi and Shama Zaidi",
+      "where": "Agra and Bombay, India",
+      "country": "India",
+      "text": "Garm Hava, about a Muslim family in Agra after Partition, grew from an unpublished story by the writer Ismat Chughtai. The poet Kaifi Azmi and Shama Zaidi wrote the screenplay together. Zaidi and Azmi shared the Filmfare award for Best Screenplay.",
+      "why": "It is a reminder that a screenplay often begins as someone else's story, carefully rebuilt for the screen.",
+      "sources": [
+        21
+      ]
+    },
+    {
+      "year": 1973,
+      "date": "1973",
+      "era": "drawn",
+      "art": "marker",
+      "key": true,
+      "title": "Writers' names on the posters",
+      "who": "Salim–Javed (Salim Khan and Javed Akhtar)",
+      "where": "Bombay (now Mumbai), India",
+      "country": "India",
+      "text": "When the posters for Zanjeer went up without the writers' names, Salim Khan and Javed Akhtar say they paid a painter to add them by hand. The duo went on to write Deewaar and Sholay (both 1975). They are widely credited as among the first Indian screenwriters to become stars.",
+      "why": "They made audiences and producers see that a film starts with its writers.",
+      "sources": [
+        22,
+        23,
+        24
+      ]
+    },
+    {
+      "year": 1977,
+      "date": "1976–1977",
+      "era": "drawn",
+      "art": "projector",
+      "title": "Old dogfights stand in for X-wings",
+      "who": "George Lucas and his editors",
+      "where": "California, USA",
+      "country": "United States",
+      "text": "While the effects shots for Star Wars were still being made, Lucas cut clips of World War II air battles from old films into the edit. They showed the effects team the speed and camera moves he wanted. Artists later matched some shots almost frame by frame.",
+      "why": "It was a moving sketch of a scene, the idea behind every animatic.",
+      "box": "animatic",
+      "sources": [
+        25,
+        9
+      ]
+    },
+    {
+      "year": 1979,
+      "date": "1978–1979",
+      "era": "drawn",
+      "art": "nib",
+      "title": "Ridleygrams",
+      "who": "Ridley Scott",
+      "where": "England",
+      "country": "United Kingdom",
+      "text": "Ridley Scott, who trained in art and design, drew his own storyboards for Alien in ink and pencil. His crew nicknamed them Ridleygrams. The studio was reportedly so impressed by his drawn plan that it gave the film a much bigger budget.",
+      "why": "A good storyboard can sell a film before a single frame is shot.",
+      "box": "pictures",
+      "sources": [
+        26
+      ]
+    },
+    {
+      "year": 1979,
+      "date": "1979",
+      "era": "rules",
+      "art": "word",
+      "key": true,
+      "title": "The three-act paradigm",
+      "who": "Syd Field",
+      "where": "Los Angeles, USA",
+      "country": "United States",
+      "text": "Syd Field's book Screenplay: The Foundations of Screenwriting said a film has three acts: set-up, confrontation and resolution. Big turning points, called plot points, push the story from one act to the next, roughly 20 to 30 minutes in and 80 to 90 minutes in. The book became a bestseller and a guide for generations of writers.",
+      "why": "It gave writers a simple map for where things should happen on the page.",
+      "box": "structure",
+      "sources": [
+        27,
+        28
+      ]
+    },
+    {
+      "year": 1980,
+      "date": "1980",
+      "era": "drawn",
+      "art": "palette",
+      "title": "Storyboards painted like art",
+      "who": "Akira Kurosawa",
+      "where": "Tokyo, Japan",
+      "country": "Japan",
+      "text": "Kurosawa trained as a painter before he made films. To win backing for Kagemusha, he painted colourful storyboard pictures of its scenes, and he kept painting them for later films such as Ran (1985) and Dreams (1990). The paintings have since been shown in museums.",
+      "why": "A storyboard can capture colour and mood, not just where the camera goes.",
+      "box": "pictures",
+      "sources": [
+        29,
+        43
+      ]
+    },
+    {
+      "year": 1982,
+      "date": "1982",
+      "era": "rules",
+      "art": "chip",
+      "title": "The first screenwriting software",
+      "who": "SmartKey",
+      "where": "USA",
+      "country": "United States",
+      "text": "SmartKey was a set of keyboard shortcuts for word processors such as WordStar and WordPerfect. It is usually called the first screenwriting software. Writers no longer had to set every margin by hand for each character name and line of dialogue.",
+      "why": "Computers began to take care of the fiddly format so writers could focus on the story.",
+      "box": "page",
+      "sources": [
+        30,
+        1
+      ]
+    },
+    {
+      "year": 1985,
+      "date": "1985 (book 1992)",
+      "era": "rules",
+      "art": "scroll",
+      "title": "The Hero's Journey goes to Hollywood",
+      "who": "Christopher Vogler",
+      "where": "Walt Disney Studios, Burbank, USA",
+      "country": "United States",
+      "text": "Christopher Vogler, a story analyst at Disney, boiled Campbell's ideas down into a seven-page memo for screenwriters. Copies spread from studio to studio. He grew it into the book The Writer's Journey in 1992, with twelve stages and eight character types.",
+      "why": "It turned an old theory about myths into a practical checklist for film stories.",
+      "box": "structure",
+      "sources": [
+        31,
+        11
+      ]
+    },
+    {
+      "year": 1988,
+      "date": "1988",
+      "era": "digital",
+      "art": "wireframe",
+      "title": "The first 3D previs",
+      "who": "Lynda Weinman",
+      "where": "Los Angeles, USA",
+      "country": "United States",
+      "text": "For Star Trek V: The Final Frontier, the animator Lynda Weinman used a desktop program called Swivel 3D to make simple moving models of the starship Enterprise. It is described as the first 3D computer previs for a major film. Planners could now try camera moves in three dimensions.",
+      "why": "Storyboards began to leave paper and move into the computer.",
+      "box": "animatic",
+      "sources": [
+        9
+      ]
+    },
+    {
+      "year": 1990,
+      "date": "1990",
+      "era": "rules",
+      "art": "digital",
+      "title": "Final Draft",
+      "who": "Marc Madnick and Ben Cahan",
+      "where": "California, USA",
+      "country": "United States",
+      "text": "Madnick and Cahan founded Final Draft to build a word processor that formats a script to Hollywood's rules automatically. It became the industry's standard tool for film and television scripts. In 2013 it won a Primetime Emmy Engineering Award.",
+      "why": "The standard page layout was now built into the software writers used every day.",
+      "box": "page",
+      "sources": [
+        32,
+        33
+      ]
+    },
+    {
+      "year": 1999,
+      "date": "1995–1999",
+      "era": "digital",
+      "art": "keyframe",
+      "key": true,
+      "title": "Animatics for every effects shot",
+      "who": "David Dozoretz, for Lucasfilm",
+      "where": "Skywalker Ranch, California, USA",
+      "country": "United States",
+      "text": "After David Dozoretz made digital animatics for Mission: Impossible, Lucasfilm hired him to plan the pod race in Star Wars: Episode I, The Phantom Menace. His team made an average of four to six animatics for every effects shot. Directors could now watch a rough 3D version of a sequence before building anything.",
+      "why": "Previs became a normal step in making big films, not an experiment.",
+      "box": "animatic",
+      "sources": [
+        9
+      ]
+    },
+    {
+      "year": 2004,
+      "date": "2004",
+      "era": "digital",
+      "art": "wireframe",
+      "title": "A company just for previs",
+      "who": "The Third Floor",
+      "where": "Los Angeles, USA",
+      "country": "United States",
+      "text": "A group of artists who had made previs for Star Wars: Episode III at Lucasfilm set up their own company, The Third Floor. The name comes from the top floor of Skywalker Ranch, where they had worked. It went on to plan scenes for many blockbuster films and series.",
+      "why": "Planning shots in a computer had become a whole industry.",
+      "box": "animatic",
+      "sources": [
+        34
+      ]
+    },
+    {
+      "year": 2005,
+      "date": "2005",
+      "era": "rules",
+      "art": "word",
+      "title": "Save the Cat",
+      "who": "Blake Snyder",
+      "where": "Los Angeles, USA",
+      "country": "United States",
+      "text": "The screenwriter Blake Snyder published Save the Cat!, which splits a film into 15 beats, from the Opening Image to the Final Image. The title is his advice to let the audience see the hero do something kind early on. It became one of the most popular books on story structure.",
+      "why": "It gave writers a detailed beat sheet to test a story against, page by page.",
+      "box": "structure",
+      "sources": [
+        35
+      ]
+    },
+    {
+      "year": 2012,
+      "date": "2012",
+      "era": "rules",
+      "art": "word",
+      "title": "A screenplay in plain text",
+      "who": "John August, Stu Maschwitz and others",
+      "where": "USA and Sweden",
+      "country": "United States",
+      "text": "Fountain is a simple way to write a screenplay in any text editor, on any device. You type a scene heading, a name in capitals and some dialogue, and software lays it out in proper script format. It is free and open for anyone to use.",
+      "why": "The script format became something anyone could write with no special software at all.",
+      "box": "page",
+      "sources": [
+        37,
+        38
+      ]
+    },
+    {
+      "year": 2015,
+      "date": "2015–2022",
+      "era": "digital",
+      "art": "mocap",
+      "title": "Pre-vis for Indian epics",
+      "who": "Firefly Creative Studio; V. Srinivas Mohan and the RRR team",
+      "where": "Hyderabad, India",
+      "country": "India",
+      "text": "For Baahubali (2015), VFX supervisor Sanath PC of Firefly Creative Studio said the team did a lot of pre-vis for the war scenes, so the director, fight master and cinematographer worked from one plan. For the animal stampede in RRR (2022), pre-vis worked out how fast each animal would run, and those numbers drove a strip of LED lights on set.",
+      "why": "Big Indian action films now rehearse their most expensive shots in 3D before a single camera rolls.",
+      "box": "animatic",
+      "sources": [
+        44,
+        45,
+        46
+      ]
+    },
+    {
+      "year": 2019,
+      "date": "2019",
+      "era": "digital",
+      "art": "greenscreen",
+      "title": "The plan becomes the set",
+      "who": "Industrial Light & Magic and Jon Favreau",
+      "where": "Manhattan Beach, California, USA",
+      "country": "United States",
+      "text": "For The Mandalorian, ILM surrounded actors with a curved wall of LED screens showing 3D worlds drawn in real time by a game engine. The background shifts as the camera moves, so it looks real on camera. More than half of season one was filmed this way.",
+      "why": "The digital world built during planning could now appear on the set itself.",
+      "box": "animatic",
+      "sources": [
+        39
+      ]
+    }
+  ],
+  "firsts": [
+    {
+      "label": "Storyboard pinned up on a board",
+      "value": "c. 1933",
+      "who": "Webb Smith (credited), Disney, USA"
+    },
+    {
+      "label": "Writer to win two Academy Awards",
+      "value": "1930 and 1932",
+      "who": "Frances Marion, USA"
+    },
+    {
+      "label": "Job title 'production designer'",
+      "value": "1939",
+      "who": "William Cameron Menzies, Gone with the Wind, USA"
+    },
+    {
+      "label": "Screenwriting software",
+      "value": "1982",
+      "who": "SmartKey, USA"
+    },
+    {
+      "label": "3D computer previs for a major film",
+      "value": "1988",
+      "who": "Lynda Weinman, Star Trek V, USA"
+    },
+    {
+      "label": "Company founded by previs artists",
+      "value": "2004",
+      "who": "The Third Floor, USA"
+    },
+    {
+      "label": "Open plain-text screenplay format",
+      "value": "2012",
+      "who": "Fountain, John August and Stu Maschwitz"
+    }
+  ],
+  "people": [
+    {
+      "name": "Georges Méliès",
+      "life": "1861 – 1938",
+      "role": "Magician and filmmaker",
+      "from": "France",
+      "note": "Planned his trick films as numbered tableaux, including A Trip to the Moon."
+    },
+    {
+      "name": "Thomas H. Ince",
+      "life": "1880 – 1924",
+      "role": "Producer",
+      "from": "USA",
+      "note": "Made the detailed continuity script a tool for running a film studio."
+    },
+    {
+      "name": "June Mathis",
+      "life": "1887 – 1927",
+      "role": "Screenwriter and executive",
+      "from": "USA",
+      "note": "Wrote The Four Horsemen of the Apocalypse and became Metro's first woman executive."
+    },
+    {
+      "name": "Frances Marion",
+      "life": "1888 – 1973",
+      "role": "Screenwriter",
+      "from": "USA",
+      "note": "The first writer to win two Oscars and the best-paid writer of the 1920s."
+    },
+    {
+      "name": "William Cameron Menzies",
+      "life": "1896 – 1957",
+      "role": "Production designer",
+      "from": "USA",
+      "note": "Designed Gone with the Wind shot by shot; the title production designer was coined for him."
+    },
+    {
+      "name": "Joseph Campbell",
+      "life": "1904 – 1987",
+      "role": "Scholar of myth",
+      "from": "USA",
+      "note": "Described the hero's journey that screenwriters still borrow."
+    },
+    {
+      "name": "Akira Kurosawa",
+      "life": "1910 – 1998",
+      "role": "Director and painter",
+      "from": "Japan",
+      "note": "Painted his storyboards for Kagemusha, Ran and Dreams."
+    },
+    {
+      "name": "Saul Bass",
+      "life": "1920 – 1996",
+      "role": "Designer",
+      "from": "USA",
+      "note": "Storyboarded the shower scene in Psycho as pictorial consultant."
+    },
+    {
+      "name": "Satyajit Ray",
+      "life": "1921 – 1992",
+      "role": "Director, writer and illustrator",
+      "from": "India",
+      "note": "Planned his films in drawings and in red notebooks he called his kheror khata."
+    },
+    {
+      "name": "Syd Field",
+      "life": "1935 – 2013",
+      "role": "Screenwriting teacher",
+      "from": "USA",
+      "note": "His 1979 book taught the three-act paradigm and plot points."
+    },
+    {
+      "name": "Salim Khan and Javed Akhtar",
+      "life": "b. 1935 and b. 1945",
+      "role": "Screenwriters (Salim–Javed)",
+      "from": "India",
+      "note": "Wrote Zanjeer, Deewaar and Sholay, and made screenwriters stars in Hindi cinema."
+    }
+  ],
+  "series": [
+    {
+      "id": "nicholl",
+      "title": "Scripts entered for the Academy Nicholl Fellowships",
+      "unit": "entries",
+      "log": true,
+      "after": "digital",
+      "caption": "Entries to the Academy's screenwriting fellowship for new writers grew from 99 in its first year to more than 8,000.",
+      "points": [
+        {
+          "year": 1986,
+          "value": 99,
+          "label": "First year: 99 entrants"
+        },
+        {
+          "year": 2004,
+          "value": 6073,
+          "label": "6,073 entries"
+        },
+        {
+          "year": 2009,
+          "value": 6380,
+          "label": "6,380 entries, most sent online"
+        },
+        {
+          "year": 2011,
+          "value": 6730,
+          "label": "6,730 entries"
+        },
+        {
+          "year": 2012,
+          "value": 7197,
+          "label": "7,197 entries"
+        },
+        {
+          "year": 2013,
+          "value": 7251,
+          "label": "7,251 entries"
+        },
+        {
+          "year": 2014,
+          "value": 7511,
+          "label": "7,511 entries"
+        },
+        {
+          "year": 2020,
+          "value": 7831,
+          "label": "7,831 entries"
+        },
+        {
+          "year": 2021,
+          "value": 8191,
+          "label": "8,191 entries"
+        }
+      ]
+    }
+  ],
+  "facts": [
+    "Javed Akhtar says the painters they hired for the Zanjeer posters were drunk, and painted the writers' names across the actors' faces.",
+    "Satyajit Ray's first red notebook for Goopy Gyne Bagha Byne runs to 733 pages of story, sketches, shooting script and storyboard.",
+    "Before the effects were ready, the Star Wars space battle was edited together with clips of World War II fighter planes.",
+    "Final Draft, a program for typing scripts, won a Primetime Emmy Engineering Award in 2013.",
+    "Screenplays are still typed in Courier, a typewriter font designed in 1955, so that one page lasts about a minute on screen."
+  ],
+  "sources": [
+    {
+      "title": "Storyboard",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Storyboard"
+    },
+    {
+      "title": "Screenplay",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Screenplay"
+    },
+    {
+      "title": "A Trip to the Moon",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/A_Trip_to_the_Moon"
+    },
+    {
+      "title": "Thomas H. Ince",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Thomas_H._Ince"
+    },
+    {
+      "title": "Thomas H. Ince papers, 1913–1964",
+      "publisher": "Library of Congress",
+      "url": "https://www.loc.gov/item/mm83061218/"
+    },
+    {
+      "title": "June Mathis",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/June_Mathis"
+    },
+    {
+      "title": "Frances Marion",
+      "publisher": "National Women's History Museum",
+      "url": "https://www.womenshistory.org/education-resources/biographies/frances-marion"
+    },
+    {
+      "title": "Smith, Webb",
+      "publisher": "D23 (The Walt Disney Company)",
+      "url": "https://d23.com/a-to-z/smith-webb/"
+    },
+    {
+      "title": "Leica reel",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Leica_reel"
+    },
+    {
+      "title": "Previsualization",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Previsualization"
+    },
+    {
+      "title": "William Cameron Menzies",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/William_Cameron_Menzies"
+    },
+    {
+      "title": "The Hero with a Thousand Faces",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Hero_with_a_Thousand_Faces"
+    },
+    {
+      "title": "Screenwriters Association",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Screenwriters_Association"
+    },
+    {
+      "title": "History of SWA",
+      "publisher": "Screenwriters Association (India)",
+      "url": "https://swaindia.org/history.php"
+    },
+    {
+      "title": "Courier (typeface)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Courier_(typeface)"
+    },
+    {
+      "title": "Rare sketches and photos of the making of Satyajit Ray's Pather Panchali",
+      "publisher": "Scroll.in",
+      "url": "https://scroll.in/reel/807444/rare-sketches-and-photos-of-the-making-of-satyajit-rays-pather-panchali"
+    },
+    {
+      "title": "Mind of a Genius: Ray and his Kheror Khata (Film Books)",
+      "publisher": "TCG CREST",
+      "url": "https://www.tcgcrest.org/projects/mind-of-a-genius-ray-and-his-kheror-khata/"
+    },
+    {
+      "title": "Kheror Khata of Goopy Gyne Bagha Byne",
+      "publisher": "The Space Ink",
+      "url": "https://thespace.ink/essays/satyajit-ray-film-book/"
+    },
+    {
+      "title": "Saul Bass",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Saul_Bass"
+    },
+    {
+      "title": "Reassessing the Saul Bass and Alfred Hitchcock Collaboration",
+      "publisher": "West 86th, Bard Graduate Center",
+      "url": "https://west86th.bgc.bard.edu/articles/reassessing-the-saul-bass-and-alfred-hitchcock-collaboration"
+    },
+    {
+      "title": "Harold Michelson",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Harold_Michelson"
+    },
+    {
+      "title": "Garm Hava",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Garm_Hava"
+    },
+    {
+      "title": "Salim–Javed",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Salim%E2%80%93Javed"
+    },
+    {
+      "title": "Angry Young Men: Salim-Javed open up on putting their names on posters",
+      "publisher": "Bollywood Hungama",
+      "url": "https://www.bollywoodhungama.com/news/bollywood/angry-young-men-jaya-bachchan-reservations-signing-male-centric-zanjeer-salim-javed-open-putting-names-posters-songwriter-writes-one-page-get/"
+    },
+    {
+      "title": "Zanjeer (1973 film)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Zanjeer_(1973_film)"
+    },
+    {
+      "title": "The Real Aerial Battles That Inspired Star Wars",
+      "publisher": "Smithsonian Air & Space",
+      "url": "https://www.smithsonianmag.com/air-space-magazine/air-battles-became-star-wars-1-180975832/"
+    },
+    {
+      "title": "Alien Unseen Part One: Ridleygrams",
+      "publisher": "Weyland-Yutani Archives",
+      "url": "https://weylanduplink.com/news/alien-unseen-part-one-ridleygrams"
+    },
+    {
+      "title": "Syd Field",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Syd_Field"
+    },
+    {
+      "title": "Screenplay (book)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Screenplay_(book)"
+    },
+    {
+      "title": "Kagemusha: From Painting to Film Pageantry",
+      "publisher": "The Criterion Collection",
+      "url": "https://www.criterion.com/current/posts/360-kagemusha-from-painting-to-film-pageantry"
+    },
+    {
+      "title": "Screenwriting software",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Screenwriting_software"
+    },
+    {
+      "title": "The Writer's Journey: Mythic Structure for Writers",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Writer%27s_Journey:_Mythic_Structure_for_Writers"
+    },
+    {
+      "title": "Final Draft (software)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Final_Draft_(software)"
+    },
+    {
+      "title": "About Us",
+      "publisher": "Final Draft",
+      "url": "https://www.finaldraft.com/company/"
+    },
+    {
+      "title": "The Third Floor, Inc.",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Third_Floor,_Inc."
+    },
+    {
+      "title": "Save the Cat!: The Last Book on Screenwriting You'll Ever Need",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Save_the_Cat!:_The_Last_Book_on_Screenwriting_You%27ll_Ever_Need"
+    },
+    {
+      "title": "Toon Boom Releases Storyboard Pro",
+      "publisher": "Animation World Network",
+      "url": "https://www.awn.com/news/toon-boom-releases-storyboard-pro"
+    },
+    {
+      "title": "Introducing Fountain",
+      "publisher": "John August",
+      "url": "https://johnaugust.com/2012/introducing-fountain"
+    },
+    {
+      "title": "Fountain (markup language)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Fountain_(markup_language)"
+    },
+    {
+      "title": "The Mandalorian (Season 1)",
+      "publisher": "Industrial Light & Magic",
+      "url": "https://www.ilm.com/vfx/the-mandalorian/"
+    },
+    {
+      "title": "History of the Academy Nicholl Fellowships",
+      "publisher": "Academy of Motion Picture Arts and Sciences",
+      "url": "https://www.oscars.org/nicholl/history"
+    },
+    {
+      "title": "Satyajit Ray",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Satyajit_Ray"
+    },
+    {
+      "title": "Three Little Pigs (film)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Three_Little_Pigs_(film)"
+    },
+    {
+      "title": "Akira Kurosawa Painted the Storyboards for Scenes in His Epic Films",
+      "publisher": "Open Culture",
+      "url": "https://www.openculture.com/2015/10/akira-kurosawa-painted-the-storyboards-for-scenes-in-his-epic-films.html"
+    },
+    {
+      "title": "The Making of Baahubali's Epic War Sequences",
+      "publisher": "The Review Monk",
+      "url": "https://thereviewmonk.com/article/making-baahubalis-epic-war-sequences/"
+    },
+    {
+      "title": "Bending the physics (RRR VFX)",
+      "publisher": "befores & afters",
+      "url": "https://beforesandafters.com/2022/12/12/bending-the-physics/"
+    },
+    {
+      "title": "'RRR': The VFX of Bheem's Epic Tiger Fight Scene",
+      "publisher": "Variety",
+      "url": "https://variety.com/2022/artisans/news/rrr-stunts-tiger-fight-scenes-bheem-unleashing-wild-animals-1235429542/"
+    }
+  ]
+}
